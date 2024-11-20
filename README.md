@@ -1,6 +1,5 @@
 # zxc1uki.github.io
 Здравствуйте уважаемые сотрудники КП! Этот сайт создан для вас.
-<!DOCTYPE html>
 <html lang="ru">
  <head>
   <meta charset="utf-8">
@@ -17,6 +16,6 @@
   </style>
  </head>
  <body> 
-  <a href="page/new.html" class="btn">Переход по ссылке</a>
+  <a href="https://docs.google.com/document/d/1Wa38ql0c7CN8KRxYAPf5CfhsN3KIL-VRCvhJUd7VH-E/edit?tab=t.0" class="btn">Переход по ссылке</a>
  </body>
 </html>
