@@ -17,3 +17,12 @@
   <a href="https://discord.gg/VYF884VQN5" class="btn">Переход по ссылке</a>
  </body>
 </html>
+button {
+    display: flex;
+    margin: 0 auto;
+}
+<div
+  style="display:flex; justify-content:center; align-items:center; height:100vh;"
+>
+  <button>Кнопка</button>
+</div>
